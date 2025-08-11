@@ -7,8 +7,8 @@ The goal is to understand the dataset, identify patterns in passenger survival, 
 ---
 
 ## 📂 Repository Contents
-- **`Titanic_EDA.ipynb`** → Jupyter Notebook with complete EDA process, code, and visualizations.
-- **`Concise_EDA_Report.pdf`** → A short PDF report summarizing the key findings.
+- **`Task5_EDA.ipynb`** → Jupyter Notebook with complete EDA process, code, and visualizations.
+- **`EDA_Report.pdf`** → A short PDF report summarizing the key findings.
 - **`train.csv`** → Dataset used for analysis (if sharing is permitted).
   
 ---
